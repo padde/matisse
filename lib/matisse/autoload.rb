@@ -1,0 +1,3 @@
+require 'matisse'
+
+Matisse.enable
