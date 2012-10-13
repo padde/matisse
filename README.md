@@ -2,7 +2,7 @@
 
 Matisse is a simple IRB output highlighter. It aims at resolving some issues that i personally had with Wirble. Because Wirble does a lot more than just colorizing the IRB output and i never used these features, i decided to bake my own. Matisse is the result of this effort and i hope you like it, too! This is how it looks like:
 
-![Screenshot](https://github.com/padde/matisse/raw/master/doc/screenshot.png)
+![Screenshot](https://github.com/padde/matisse/raw/master/screenshot.png)
 
 Feel free to send pull requests if you find an issue with Matisse (see section “Contributing“ below).
 
